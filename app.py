@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 # Classifiers
-from sklearn import tree
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
